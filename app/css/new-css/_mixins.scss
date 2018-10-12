@@ -1,0 +1,19 @@
+@mixin fontStyle($font-size, $font-color, $letter-spacing, $uppercase) {
+    font-size: $font-size;
+    color: $font-color;
+    letter-spacing: $letter-spacing;
+    text-transform: $uppercase;
+} 
+
+@mixin arrow($width, $height, $bgColor, $borderRadius) {
+    width: $width;
+    height: $height;
+    background: $bgColor;
+    border-radius: $borderRadius;
+}
+
+@mixin button($bgColor) {
+    background-color: $bgColor; 
+    outline: none;
+    border: none;  
+}
