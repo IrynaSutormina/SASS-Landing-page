@@ -2,7 +2,7 @@
 
 ## Clone the project:
 
-git clone https://github.com/MiraIra/Landing.git
+git clone https://github.com/IrynaSutormina/Landing.git
 
 ## Upload npm package:
 
